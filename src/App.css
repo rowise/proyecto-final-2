@@ -1,0 +1,95 @@
+.banner{
+    padding: 50px;
+    background-image: url("./assets/img/backgropund.jpg");
+}
+.Descripcion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+.imagen{
+    width: 500px;
+}
+.imagenS{
+    display: flex;
+    padding: 20px;
+    justify-content:space-around;
+    align-items: center;
+    flex-direction: column;
+    
+}
+#Secciones{
+    display: flex;
+    padding: 20px;
+    margin-right: 50px;
+    flex-direction: column;
+}
+.Divs{
+    padding: 50px;;
+    background-color: rgb(171, 150, 245);
+}
+.Divs2{
+    padding: 50px;;
+    background-color: rgb(148, 124, 235);
+}
+.button{
+    display: flex;
+    padding: 50px;
+    justify-content:space-around;
+    align-items: center;
+}
+.footer{
+    background-color: rgb(96, 96, 241);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+.carrusel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.videos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(38, 3, 104);
+    border: 5px;
+    margin: 10px; 
+    padding: 20px;
+    border-radius: 50px;
+}
+.formulario>h2{
+    color: aliceblue;
+}
+.formulario>h3{
+    color: aliceblue;
+}
+.label{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 5px;
+}
+.btns{
+    background-color: azure;
+}
+.salida{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.col>h3{
+    color: rgb(255, 253, 250);
+}
